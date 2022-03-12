@@ -1,0 +1,111 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title:
+    text: It's time to bring your idea to reality
+    button: Tell Me More
+    buttonlink: "#services"
+  services:
+    title: "Accelerator Services"
+    text:
+    section: services
+    list:
+      - title: "Product Development"
+        desc: "Product development in the fast lane. Our team has over 80 years of real world product development experience solving seemingly impossible design problems."
+        icon: far fa-calendar #find more at https://fontawesome.com/icons
+      - title: "Risk Mitigation"
+        desc: "Omni Venture Labs minimizes the uncertainty and risk of product innovation through design thinking. We believe in continuous prototyping to test, refine, and ship product."
+        icon: fas fa-pencil-ruler
+      - title: "Fundraising"
+        desc: "We consistently increase valuation and fundraising success through branding and communication strategy, business development, and pitch tactics in order to close investors."
+        icon: fas fa-dollar-sign
+
+  portfolio:
+    title: "Portfolio"
+    text: "Here's some of the many companies we've helped bring their ideas to life."
+    section: portfolio
+    closebutton: "Close Project"
+
+  team:
+    title: "World class team of innovators"
+    section: team
+    people:
+      - name: "Simon Lancaster"
+        role: "President and Founder"
+        image: assets/img/team/simon.jpg
+        social:
+          - url: https://www.linkedin.com/in/simonlancaster/
+            icon: fab fa-linkedin-in
+      - name: "Mike Beadle"
+        role: "Partner, Mechanical Designer"
+        image: assets/img/team/mike.jpg
+        social:
+          - url: https://www.linkedin.com/in/mbeadle/
+            icon: fab fa-linkedin-in
+      - name: "Sabrina Paseman"
+        role: "Partner, Program Manager"
+        image: assets/img/team/sabrina.png
+        social:
+          - url: https://www.linkedin.com/in/sabrina-paseman/
+            icon: fab fa-linkedin-in
+      - name: "Lucas Whipple"
+        role: "Partner, Product Architect"
+        image: assets/img/team/lucas.png
+        social:
+          - url: https://www.linkedin.com/in/lucas-whipple-7594277/
+            icon: fab fa-linkedin-in
+      - name: "Will Carey"
+        role: "Chief Design Officer"
+        image: assets/img/team/will.png
+        social:
+          - url: https://www.linkedin.com/in/willcarey/
+            icon: fab fa-linkedin-in
+      - name: "Brenden Singh"
+        role: "Senior Electrical Engineer"
+        image: assets/img/team/brenden.png
+        social:
+          - url: https://www.linkedin.com/in/brenden-singh-3202/
+            icon: fab fa-linkedin-in
+      - name: "Ishaan Oberoi"
+        role: "Mechatronics Engineer Intern"
+        image: assets/img/team/ishaan.png
+        social:
+          - url: https://www.linkedin.com/in/ishaan-oberoi/
+            icon: fab fa-linkedin-in
+  meet:
+    title: "Meet with us"
+    text: "Omni Venture Labs believes in building long term business
+    relationships with its clients. Schedule a call and receive an
+    immediate quotation for your project needs."
+    section: meet
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://www.linkedin.com/company/orion-venture-labs/
+        icon: "fab fa-linkedin-in"
+      - url: mailto:simon@omnivl.com
+        icon: "far fa-envelope-open"
+    meetPrivate:
+      title: "Let's Talk"
+      text: "Let's Chat"
+      section: meetPrivate
+      url: "https://calendly.com/simonlancaster"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
