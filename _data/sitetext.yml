@@ -82,6 +82,7 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/ishaan-oberoi/
             icon: fab fa-linkedin-in
+      
   meet:
     title: "Meet with us"
     text: "Omni Venture Labs believes in building long term business
