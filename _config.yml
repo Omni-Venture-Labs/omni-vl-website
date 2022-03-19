@@ -22,8 +22,8 @@ email      : simon@omnivl.com #this is also the email contact forms will go to
 description: "Omni Venture Labs is an accelerator with over 80 years of experience putting product development in the fast lane. We believe in continuous prototyping to mitigate risk and use design thinking to address uncertainty. We also work to increase the valuation and fundraising success of our clients. "
 author     :
 logo:     #optional, defaults to site title
-  path: assets\img\logo\orion-white.png
-  #height: 60 #height in px, defaults to 52px
+  path: assets\img\logo\omni-white.png
+  #height: 60 #height in px, defaFults to 52px
 icon:
   path: assets/img/logo/orionSquare.png
 
