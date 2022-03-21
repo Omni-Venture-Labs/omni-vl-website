@@ -76,6 +76,12 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/brenden-singh-3202/
             icon: fab fa-linkedin-in
+      - name: "Dominik Nagiller"
+        role: "Advisor, Strategic Partnerships"
+        image: assets/img/team/dominik.jpg
+        social:
+          - url: https://www.linkedin.com/in/dom-n/
+            icon: fab fa-linkedin-in
       - name: "Ishaan Oberoi"
         role: "Mechatronics Engineer Intern"
         image: assets/img/team/ishaan.png
