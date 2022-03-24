@@ -82,6 +82,12 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/dom-n/
             icon: fab fa-linkedin-in
+      - name: "Enrique Palau"
+        role: "Fundraising and Financial Advisor"
+        image: assets/img/team/enrique.png
+        social:
+          - url: https://www.linkedin.com/in/enriquepalau/
+            icon: fab fa-linkedin-in
       - name: "Ishaan Oberoi"
         role: "Mechatronics Engineer Intern"
         image: assets/img/team/ishaan.png
