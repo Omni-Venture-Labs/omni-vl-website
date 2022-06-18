@@ -64,12 +64,12 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/lucas-whipple-7594277/
             icon: fab fa-linkedin-in
-      - name: "Will Carey"
-        role: "Chief Design Officer"
-        image: assets/img/team/will.png
-        social:
-          - url: https://www.linkedin.com/in/willcarey/
-            icon: fab fa-linkedin-in
+ #     - name: "Will Carey"
+ #       role: "Chief Design Officer"
+ #       image: assets/img/team/will.png
+ #       social:
+ #         - url: https://www.linkedin.com/in/willcarey/
+ #           icon: fab fa-linkedin-in
       - name: "Brenden Singh"
         role: "Senior Electrical Engineer"
         image: assets/img/team/brenden.png
