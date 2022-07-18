@@ -1,16 +1,11 @@
 ---
-title: Factor Hardware
-subtitle: $1.8M+ venture funding raised
-image: assets/img/portfolio/factorProduct.png
+title: Paperplane.ai
+image: assets/img/portfolio/paperplaneProduct.png
 alt:
 
 caption:
-  title: Factor Hardware
-  subtitle: The simplest way to order, track, and pay for purchased parts
-  thumbnail: assets/img/portfolio/factorLogo.png
+  title: Paperplane.ai
+  subtitle: Seamlessly save millions in sales tax refunds
+  thumbnail: assets/img/portfolio/paperplaneLogo.png
 ---
-Factor is the supplier and order management system for a world where manufacturing disruptions are the norm.
-
-Omni was responsible for product position strategy, business development strategy, product feature development roadmapping and strategy and CEO mentoring.
-
-<a href = "https://www.factor.io/">Click here to learn more about Factor Hardware.</a>
+Paperplane.ai is a service to help companies save on sales tax through tax refunds. By finding tax exempt purchases, paperplane.ai can help companies save 250k+ to millions of dollars. <a href = "https://paperplane.ai">Click here to learn more about Paperplane.ai.</a>
