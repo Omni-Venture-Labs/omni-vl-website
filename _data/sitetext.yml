@@ -41,25 +41,26 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Simon Lancaster"
-        role: "President and Founder"
+        role: "General Partner"
         image: assets/img/team/simon.jpg
         social:
           - url: https://www.linkedin.com/in/simonlancaster/
             icon: fab fa-linkedin-in
-      - name: "Mike Beadle"
-        role: "Partner, Mechanical Designer"
-        image: assets/img/team/mike.jpg
-        social:
-          - url: https://www.linkedin.com/in/mbeadle/
-            icon: fab fa-linkedin-in
       - name: "Sabrina Paseman"
-        role: "Partner, Program Manager"
+        role: "General Partner"
         image: assets/img/team/sabrina.png
         social:
           - url: https://www.linkedin.com/in/sabrina-paseman/
             icon: fab fa-linkedin-in
+      - name: "Mike Beadle"
+        role: "Venture Partner"
+        image: assets/img/team/mike.jpg
+        social:
+          - url: https://www.linkedin.com/in/mbeadle/
+            icon: fab fa-linkedin-in
+      
       - name: "Lucas Whipple"
-        role: "Partner, Product Architect"
+        role: "Venture Partner"
         image: assets/img/team/lucas.png
         social:
           - url: https://www.linkedin.com/in/lucas-whipple-7594277/
@@ -93,6 +94,12 @@ en: &DEFAULT_EN
         image: assets/img/team/adontis.jpg
         social:
           - url: https://www.linkedin.com/in/adontis-haskins-6a386a16b/
+            icon: fab fa-linkedin-in
+      - name: "Sam Donkor"
+        role: "Associate"
+        image: assets/img/team/sam.jpg
+        social:
+          - url: https://www.linkedin.com/in/samuel-donkor-14aaab245/
             icon: fab fa-linkedin-in
       - name: "Ishaan Oberoi"
         role: "Mechatronics Engineer Intern"
