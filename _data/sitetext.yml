@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   header:
     title:
-    text: Accelerating, Investing, and Equity Advising
-    button: Tell Me More
-    buttonlink: "#services"
+    text: Investing in DeepTech startups at the earliest possible stage
+    button: See our companies
+    buttonlink: "#portfolio"
   services:
     title: "Accelerator Services"
     text:
