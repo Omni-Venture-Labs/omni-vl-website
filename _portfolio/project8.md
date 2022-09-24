@@ -5,7 +5,7 @@ alt:
 
 caption:
   title: Dystr.com
-  subtitle: Changing academia as we know it
+  subtitle: Changing cross functional engineering collaboration
   thumbnail: assets/img/portfolio/dystrLogo.png
 ---
-A platform for scientists and researchers to create, collaborate and share their work. Free to use, and in public beta now for anyone with a university email address. We’re whitelisting non-university organizations that conduct and publish research on a rolling basis.
+Dystr is an engineering knowledge base for cross-functional teams. Mechanical, electrical and software engineering teams are using Dystr to collaborate on design documents and act as the system of record for organizational design decisions.
