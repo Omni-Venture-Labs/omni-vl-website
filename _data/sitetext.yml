@@ -52,12 +52,6 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/sabrina-paseman/
             icon: fab fa-linkedin-in
-      - name: "Mike Beadle"
-        role: "Venture Partner"
-        image: assets/img/team/mike.jpg
-        social:
-          - url: https://www.linkedin.com/in/mbeadle/
-            icon: fab fa-linkedin-in
       
       - name: "Lucas Whipple"
         role: "Venture Partner"
