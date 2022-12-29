@@ -1,16 +1,11 @@
 ---
-title: Mimiq.io
-subtitle: $845k venture funding raised
-image: assets/img/portfolio/mimiqProduct.png
+title: Prototype Hubs
+image: assets/img/portfolio/CNC-Milling-Process.jpg
 alt:
 
 caption:
-  title: Mimiq.io
-  subtitle: Creating a low power network around the world
-  thumbnail: assets/img/portfolio/mimiqLogo.png
+  title: Prototype Hubs
+  subtitle: On-demand custom manufactured parts
+  thumbnail: assets/img/portfolio/Prototype-Hubs-Logo.png
 ---
-Smart Mimic’s devices detect unwanted shifting of your gear, uninvited presence in your surroundings or unexpected movement of your bicycle or other vehicles and notifies you instantly via the available Mimic App on your mobile phone. The product line consists of the delightfully engineered, sensor laden, intelligent Mimic GO and its companion, the groundbreaking Mimic Track. Mimiq also makes the FinestraMiner for creating their network.
-
-Omni was responsible for go-to-market strategy, c-suite leadership mentoring, organizational and product strategy and connecting/prototyping.
-
-<a href = "https://mimiq.io/">Click here to learn more about Mimiq.io.</a>
+Prototype Hubs is a custom manufacturing platform that connects customers to local and global Manufacturing Partners who provide 3D Printing, CNC Cutting, Sheet Metal, and CNC Machining services. Whether you are from New York, San Francisco, London, or Toronto, you can get custom manufactured parts that meet your requirements. <a href = "https://prototypehubs.com/">Click here to learn more about Prototype Hubs.</a>

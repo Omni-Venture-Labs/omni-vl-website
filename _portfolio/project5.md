@@ -1,15 +1,16 @@
 ---
-title: Aphrodite.io
-subtitle: $760K VC funding raised
-image: assets/img/portfolio/aphroditeProduct.png
+title: Mimiq.io
+subtitle: $845k venture funding raised
+image: assets/img/portfolio/mimiqProduct.png
+alt:
 
 caption:
-  title: Aphrodite.io
-  subtitle: Aphrodite frees you from the data frenzy
-  thumbnail: assets/img/portfolio/aphroditeLogo.png
+  title: Mimiq.io
+  subtitle: Creating a low power network around the world
+  thumbnail: assets/img/portfolio/mimiqLogo.png
 ---
-Unparalleled analytics and visualization tools for your e-commerce and crowdfunding campaigns.
+Smart Mimic’s devices detect unwanted shifting of your gear, uninvited presence in your surroundings or unexpected movement of your bicycle or other vehicles and notifies you instantly via the available Mimic App on your mobile phone. The product line consists of the delightfully engineered, sensor laden, intelligent Mimic GO and its companion, the groundbreaking Mimic Track. Mimiq also makes the FinestraMiner for creating their network.
 
-Omni was a founding partner and first investor in Aphrodite. Omni advises Aphrodite on go-to-market strategy, pitch deck development, fundraising, business development and sales.
+Omni was responsible for go-to-market strategy, c-suite leadership mentoring, organizational and product strategy and connecting/prototyping.
 
-<a href = "https://aphrodite.io/">Click here to learn more about Aphrodite.io.</a>
+<a href = "https://mimiq.io/">Click here to learn more about Mimiq.io.</a>

@@ -1,15 +1,11 @@
 ---
-title: Fix The Mask
-image: assets/img/portfolio/fixTheMaskProduct.jpg
+title: Paperplane.ai
+image: assets/img/portfolio/paperplaneProduct.png
 alt:
 
 caption:
-  title: Fix The Mask
-  subtitle: Get the most out of your surgical mask
-  thumbnail: assets/img/portfolio/fixTheMaskLogo.jpg
+  title: Paperplane.ai
+  subtitle: Seamlessly save millions in sales tax refunds
+  thumbnail: assets/img/portfolio/paperplaneLogo.png
 ---
-Our patent pending Nose Cushions apply light pressure across your cheeks instead of placing it all directly on your nose. It’s the key difference between our flat rubber sheet template and the Essential Mask Brace, and truly changes the game.
-
-Omni was directly responsible for initial invention and intellectual property development, go-to-market strategy, product development strategy, manufacturing and supply chain and partnership development strategy.
-
-<a href = "https://www.fixthemask.com/">Click here to learn more about Fix The Mask.</a>
+Paperplane.ai is a service to help companies save on sales tax through tax refunds. By finding tax exempt purchases, paperplane.ai can help companies save 250k+ to millions of dollars. <a href = "https://paperplane.ai">Click here to learn more about Paperplane.ai.</a>

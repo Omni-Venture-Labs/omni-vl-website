@@ -1,11 +1,15 @@
 ---
-title: Dystr.com
-image: assets/img/portfolio/dystrProduct.gif
-alt:
+title: Aphrodite.io
+subtitle: $760K VC funding raised
+image: assets/img/portfolio/aphroditeProduct.png
 
 caption:
-  title: Dystr.com
-  subtitle: Changing cross functional engineering collaboration
-  thumbnail: assets/img/portfolio/dystrLogo.png
+  title: Aphrodite.io
+  subtitle: Aphrodite frees you from the data frenzy
+  thumbnail: assets/img/portfolio/aphroditeLogo.png
 ---
-Dystr is an engineering knowledge base for cross-functional teams. Mechanical, electrical and software engineering teams are using Dystr to collaborate on design documents and act as the system of record for organizational design decisions.
+Unparalleled analytics and visualization tools for your e-commerce and crowdfunding campaigns.
+
+Omni was a founding partner and first investor in Aphrodite. Omni advises Aphrodite on go-to-market strategy, pitch deck development, fundraising, business development and sales.
+
+<a href = "https://aphrodite.io/">Click here to learn more about Aphrodite.io.</a>
