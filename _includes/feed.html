@@ -1,0 +1,16 @@
+<!-- feed -->
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].feed.section | default: "feed" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].feed.title | default: "Feed" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].feed.text | default: "" }}</h3>
+      </div>
+    </div>
+    <!-- Calendly inline widget begin -->
+    <a class="twitter-timeline" data-height="800" href="https://twitter.com/omniventurelabs?ref_src=twsrc%5Etfw">Tweets by omniventurelabs</a> 
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <!-- Calendly inline widget end -->
+  </div>
+</section>
+<!-- End feed -->
