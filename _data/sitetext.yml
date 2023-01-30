@@ -83,12 +83,6 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/enriquepalau/
             icon: fab fa-linkedin-in
-      - name: "Adontis Haskins"
-        role: "Senior Venture Associate"
-        image: assets/img/team/adontis.jpg
-        social:
-          - url: https://www.linkedin.com/in/adontis-haskins-6a386a16b/
-            icon: fab fa-linkedin-in
       - name: "Sam Donkor"
         role: "Associate"
         image: assets/img/team/sam.jpg
