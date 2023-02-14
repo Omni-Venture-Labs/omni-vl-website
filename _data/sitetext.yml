@@ -65,18 +65,6 @@ en: &DEFAULT_EN
  #       social:
  #         - url: https://www.linkedin.com/in/willcarey/
  #           icon: fab fa-linkedin-in
-      - name: "Brenden Singh"
-        role: "Senior Electrical Engineer"
-        image: assets/img/team/brenden.png
-        social:
-          - url: https://www.linkedin.com/in/brenden-singh-3202/
-            icon: fab fa-linkedin-in
-      - name: "Dominik Nagiller"
-        role: "Advisor, Strategic Partnerships"
-        image: assets/img/team/dominik.jpg
-        social:
-          - url: https://www.linkedin.com/in/dom-n/
-            icon: fab fa-linkedin-in
       - name: "Enrique Palau"
         role: "Fundraising and Financial Advisor"
         image: assets/img/team/enrique.png
