@@ -19,8 +19,6 @@ en: &DEFAULT_EN
       section: team
     - title: "Meet With Us"
       section: meet
-    - title: "LP Portal"
-      url: /LP-portal
 en-US:
   <<: *DEFAULT_EN
 en-CA:
