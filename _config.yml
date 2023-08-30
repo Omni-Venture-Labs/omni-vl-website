@@ -19,7 +19,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Omni Venture Labs
 email      : simon@omnivl.com #this is also the email contact forms will go to
-description: "Omni Venture Labs is an accelerator with over 80 years of experience putting product development in the fast lane. We believe in continuous prototyping to mitigate risk and use design thinking to address uncertainty. We also work to increase the valuation and fundraising success of our clients. "
+description: "Omni Venture Labs is a \"first check\" DeepTech VC. We invest in experienced engineers at the frontier of the digital transformation of industry through AI, Robotics, and Automation. Our team, holding over 80 patents, identifies technical founders with defensible IP before other VCs"
 author     :
 logo:     #optional, defaults to site title
   path: assets\img\logo\omni-white.png
